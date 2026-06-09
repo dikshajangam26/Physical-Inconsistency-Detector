@@ -1,0 +1,5 @@
+config,bbox_acc50,mean_iou
+clean_base,0.375,0.40446747839450836
+noisy_baseline,0.5625,0.44709302112460136
+naive_filtering,0.3125,0.4326373082585633
+counterfactual_synthetics,0.5,0.45893466752022505
