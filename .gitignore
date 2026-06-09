@@ -5,15 +5,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Large/generated project artifacts
-data/legacy_singleview/raw/
-data/legacy_singleview/processed_features/
-data/multiview/raw/
-data/multiview/processed_features/
-models/
-*.pth
-*.npz
-
 # OS/editor
 .DS_Store
 EOF
